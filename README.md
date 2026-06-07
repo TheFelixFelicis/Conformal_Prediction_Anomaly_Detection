@@ -16,14 +16,6 @@ repository under the terms of agreement. The notebooks expect a
 semicolon-separated CSV named `Slottskogsgatan_tracks_extramerged.csv` with the
 fields: `ID`, `Time`, `X`, `Y`, `Speed`, `Type`, `Estimated`.
 
-## Setup
-
-```
-pip install -r requirements.txt
-```
-
-Developed with Python 3.12.
-
 ## Running
 
 Run the notebooks in order, 01 through 08. Each writes intermediate outputs that
