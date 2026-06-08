@@ -29,3 +29,6 @@ the next step reads, so they are not independent:
 6. `06_conformal_detector` — Variant A and Variant B conformal detectors
 7. `07_lead_time_analysis` — early-detection lead time
 8. `08_bias_audit` — subgroup bias and fairness audit
+
+It is also possible to download the All_Notebooks.zip file in order to get access to all 
+of them in one go.
