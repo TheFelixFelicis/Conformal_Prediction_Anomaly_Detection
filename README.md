@@ -1,4 +1,4 @@
-# How Early Can We Tell? – Conformal Prediction for Per-Point Anomaly Detection at a Roundabout Junction
+# Conformal Prediction for Per-Point Anomaly Detection at a Roundabout Junction
 
 Code for the master's thesis *How Early Can We Tell? Conformal Prediction for
 Per-Point Anomaly Detection at a Roundabout Junction* (University of Skövde, 2026).
